@@ -1,0 +1,1437 @@
+
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Hard Rock Stadium                                 |
+| Location        | Miami Gardens, FL                                 |
+| Date            | 04/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | TIAA Bank Field                                   |
+| Location        | Jacksonville, FL                                  |
+| Date            | 04/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | NRG Arena                                         |
+| Location        | Houston, TX                                       |
+| Date            | 04/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | State Farm Stadium                                |
+| Location        | Glendale, AZ                                      |
+| Date            | 05/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Fairgrounds New Orleans                           |
+| Location        | New Orleans, LA                                   |
+| Date            | 05/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | CenturyLink Field                                 |
+| Location        | Seattle, WA                                       |
+| Date            | 05/22/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Levi's Stadium                                    |
+| Location        | Santa Clara, CA                                   |
+| Date            | 05/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Rose Bowl Stadium                                 |
+| Location        | Pasadena, CA                                      |
+| Date            | 05/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Lincoln Financial Field                           |
+| Location        | Philadelphia, PA                                  |
+| Date            | 06/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Broncos Stadium at Mile High                      |
+| Location        | Denver, CO                                        |
+| Date            | 05/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Gillette Stadium                                  |
+| Location        | Foxborough, MA                                    |
+| Date            | 06/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | FedEx Field                                       |
+| Location        | Landover, MD                                      |
+| Date            | 05/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Soldier Field                                     |
+| Location        | Chicago, IL                                       |
+| Date            | 06/21/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | MetLife Stadium                                   |
+| Location        | East Rutherford, NJ                               |
+| Date            | 06/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Soldier Field                                     |
+| Location        | Chicago, IL                                       |
+| Date            | 06/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | MetLife Stadium                                   |
+| Location        | East Rutherford, NJ                               |
+| Date            | 06/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Burl's Creek Event Grounds                        |
+| Location        | Oro-medonte,                                      |
+| Date            | 06/29/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title           | Mr. Nobody                                                                                                                                  |
+| Year            | 2009                                                                                                                                        |
+| IMDB Rating     | 7.8                                                                                                                                         |
+| Tomatoes Rating | 67%                                                                                                                                         |
+| Country         | Belgium, Germany, Canada, France, USA, UK                                                                                                   |
+| Language        | English, Mohawk                                                                                                                             |
+| Plot of movie   |  boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities|
+| Actors          | Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham                                                                                       |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | All That She Wants                                            |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | Greatest Hits                                                 |
+| Spotify Link | https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Wheel of Fortune                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Happy Nation                                                  |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Don't Turn Around                                             |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Young and Proud                                               |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Waiting for Magic - Total Remix 7" Version                    |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Living in Danger                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Dancer in a Daydream                                          |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | The Hits--Chapter One                                         |
+| Spotify Link | https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6         |
+--------------------------------------------------------------------------------
+| Artist       | Anthem Lights                                                 |
+| Song         | I Want It That Way                                            |
+| Album        | Covers Part IV                                                |
+| Spotify Link | https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA         |
+--------------------------------------------------------------------------------
+| Artist       | Tyler and Mark                                                |
+| Song         | I Want It That Way                                            |
+| Album        | Beautiful Dreams                                              |
+| Spotify Link | https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy         |
+--------------------------------------------------------------------------------
+| Artist       | "Weird Al" Yankovic                                           |
+| Song         | Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  |
+| Album        | Poodle Hat                                                    |
+| Spotify Link | https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | Millennium                                                    |
+| Spotify Link | https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | NKOTBSB                                                       |
+| Spotify Link | https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju         |
+--------------------------------------------------------------------------------
+| Artist       | Dynamite Boy                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Punk Goes Pop                                                 |
+| Spotify Link | https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | 90 Sweet 90s Hits!                                            |
+| Spotify Link | https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5         |
+--------------------------------------------------------------------------------
+| Artist       | Glee Cast                                                     |
+| Song         | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Album        | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Spotify Link | https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP         |
+--------------------------------------------------------------------------------
+| Artist       | Boyce Avenue                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Cover Sessions, Vol. 2                                        |
+| Spotify Link | https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | The Hits--Chapter One                                         |
+| Spotify Link | https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | Millennium                                                    |
+| Spotify Link | https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya         |
+--------------------------------------------------------------------------------
+| Artist       | Tyler and Mark                                                |
+| Song         | I Want It That Way                                            |
+| Album        | Beautiful Dreams                                              |
+| Spotify Link | https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy         |
+--------------------------------------------------------------------------------
+| Artist       | "Weird Al" Yankovic                                           |
+| Song         | Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  |
+| Album        | Poodle Hat                                                    |
+| Spotify Link | https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK         |
+--------------------------------------------------------------------------------
+| Artist       | Anthem Lights                                                 |
+| Song         | I Want It That Way                                            |
+| Album        | Covers Part IV                                                |
+| Spotify Link | https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | NKOTBSB                                                       |
+| Spotify Link | https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | 90 Sweet 90s Hits!                                            |
+| Spotify Link | https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5         |
+--------------------------------------------------------------------------------
+| Artist       | Boyce Avenue                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Cover Sessions, Vol. 2                                        |
+| Spotify Link | https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx         |
+--------------------------------------------------------------------------------
+| Artist       | Glee Cast                                                     |
+| Song         | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Album        | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Spotify Link | https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP         |
+--------------------------------------------------------------------------------
+| Artist       | Dynamite Boy                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Punk Goes Pop                                                 |
+| Spotify Link | https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | All That She Wants                                            |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | Greatest Hits                                                 |
+| Spotify Link | https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Don't Turn Around                                             |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Wheel of Fortune                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Happy Nation                                                  |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Living in Danger                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Dancer in a Daydream                                          |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Young and Proud                                               |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Waiting for Magic - Total Remix 7" Version                    |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | All That She Wants                                            |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Don't Turn Around                                             |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | The Sign                                                      |
+| Album        | Greatest Hits                                                 |
+| Spotify Link | https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Wheel of Fortune                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Happy Nation                                                  |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Living in Danger                                              |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Dancer in a Daydream                                          |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Young and Proud                                               |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq         |
+--------------------------------------------------------------------------------
+| Artist       | Ace of Base                                                   |
+| Song         | Waiting for Magic - Total Remix 7" Version                    |
+| Album        | The Sign (US Album) [Remastered]                              |
+| Spotify Link | https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL         |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title           | Mr. Nobody                                                                                                                                  |
+| Year            | 2009                                                                                                                                        |
+| IMDB Rating     | 7.8                                                                                                                                         |
+| Tomatoes Rating | 67%                                                                                                                                         |
+| Country         | Belgium, Germany, Canada, France, USA, UK                                                                                                   |
+| Language        | English, Mohawk                                                                                                                             |
+| Plot of movie   |  boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities|
+| Actors          | Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham                                                                                       |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title           | Mr. Nobody                                                                                                                                  |
+| Year            | 2009                                                                                                                                        |
+| IMDB Rating     | 7.8                                                                                                                                         |
+| Tomatoes Rating | 67%                                                                                                                                         |
+| Country         | Belgium, Germany, Canada, France, USA, UK                                                                                                   |
+| Language        | English, Mohawk                                                                                                                             |
+| Plot of movie   |  boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities|
+| Actors          | Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham                                                                                       |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Hard Rock Stadium                                 |
+| Location        | Miami Gardens, FL                                 |
+| Date            | 04/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | TIAA Bank Field                                   |
+| Location        | Jacksonville, FL                                  |
+| Date            | 04/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Fairgrounds New Orleans                           |
+| Location        | New Orleans, LA                                   |
+| Date            | 05/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | State Farm Stadium                                |
+| Location        | Glendale, AZ                                      |
+| Date            | 05/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | NRG Arena                                         |
+| Location        | Houston, TX                                       |
+| Date            | 04/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Rose Bowl Stadium                                 |
+| Location        | Pasadena, CA                                      |
+| Date            | 05/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Broncos Stadium at Mile High                      |
+| Location        | Denver, CO                                        |
+| Date            | 05/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | CenturyLink Field                                 |
+| Location        | Seattle, WA                                       |
+| Date            | 05/22/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Lincoln Financial Field                           |
+| Location        | Philadelphia, PA                                  |
+| Date            | 06/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Levi's Stadium                                    |
+| Location        | Santa Clara, CA                                   |
+| Date            | 05/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | FedEx Field                                       |
+| Location        | Landover, MD                                      |
+| Date            | 05/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | MetLife Stadium                                   |
+| Location        | East Rutherford, NJ                               |
+| Date            | 06/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Gillette Stadium                                  |
+| Location        | Foxborough, MA                                    |
+| Date            | 06/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | MetLife Stadium                                   |
+| Location        | East Rutherford, NJ                               |
+| Date            | 06/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Soldier Field                                     |
+| Location        | Chicago, IL                                       |
+| Date            | 06/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Soldier Field                                     |
+| Location        | Chicago, IL                                       |
+| Date            | 06/21/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | The Rolling Stones                                |
+| Venue           | Burl's Creek Event Grounds                        |
+| Location        | Oro-medonte,                                      |
+| Date            | 06/29/2019                                        |
+-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | The Hits--Chapter One                                         |
+| Spotify Link | https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | Millennium                                                    |
+| Spotify Link | https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya         |
+--------------------------------------------------------------------------------
+| Artist       | "Weird Al" Yankovic                                           |
+| Song         | Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  |
+| Album        | Poodle Hat                                                    |
+| Spotify Link | https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK         |
+--------------------------------------------------------------------------------
+| Artist       | Anthem Lights                                                 |
+| Song         | I Want It That Way                                            |
+| Album        | Covers Part IV                                                |
+| Spotify Link | https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | 90 Sweet 90s Hits!                                            |
+| Spotify Link | https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5         |
+--------------------------------------------------------------------------------
+| Artist       | Tyler and Mark                                                |
+| Song         | I Want It That Way                                            |
+| Album        | Beautiful Dreams                                              |
+| Spotify Link | https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | NKOTBSB                                                       |
+| Spotify Link | https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju         |
+--------------------------------------------------------------------------------
+| Artist       | Glee Cast                                                     |
+| Song         | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Album        | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Spotify Link | https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP         |
+--------------------------------------------------------------------------------
+| Artist       | Boyce Avenue                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Cover Sessions, Vol. 2                                        |
+| Spotify Link | https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx         |
+--------------------------------------------------------------------------------
+| Artist       | Dynamite Boy                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Punk Goes Pop                                                 |
+| Spotify Link | https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN         |
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Coachella Valley Music and Arts Festival          |
+| Location        | Indio, CA                                         |
+| Date            | 04/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Spark Arena                                       |
+| Location        | Auckland,                                         |
+| Date            | 04/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Wayville,                                         |
+| Date            | 04/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Coachella Valley Music and Arts Festival          |
+| Location        | Indio, CA                                         |
+| Date            | 04/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Hordern Pavilion                                  |
+| Location        | Sydney,                                           |
+| Date            | 04/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Maitland,                                         |
+| Date            | 04/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Margaret Court Arena                              |
+| Location        | Melbourne,                                        |
+| Date            | 05/03/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Bendigo,                                          |
+| Date            | 05/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Townsville,                                       |
+| Date            | 05/05/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Canberra,                                         |
+| Date            | 04/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Eatons Hill Hotel                                 |
+| Location        | Brisbane,                                         |
+| Date            | 05/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Fremantle Arts Centre                             |
+| Location        | Fremantle,                                        |
+| Date            | 05/10/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | BBC Radio 1's Big Weekend                         |
+| Location        | Middlesbrough,                                    |
+| Date            | 05/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Eatons Hill Hotel                                 |
+| Location        | Brisbane,                                         |
+| Date            | 05/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Bunbury,                                          |
+| Date            | 05/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | PNE Amphitheatre                                  |
+| Location        | Vancouver,                                        |
+| Date            | 06/01/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Bill Graham Civic Auditorium                      |
+| Location        | San Francisco, CA                                 |
+| Date            | 05/29/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Great Saltair                                 |
+| Location        | Salt Lake City, UT                                |
+| Date            | 06/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Moda Center                                       |
+| Location        | Portland, OR                                      |
+| Date            | 05/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Red Rocks Amphitheatre                            |
+| Location        | Morrison, CO                                      |
+| Date            | 06/05/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Silverstein Eye Centers Arena                     |
+| Location        | Kansas City, MO                                   |
+| Date            | 06/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Armory                                        |
+| Location        | Minneapolis, MN                                   |
+| Date            | 06/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Marymoor Park                                     |
+| Location        | Redmond, WA                                       |
+| Date            | 06/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Aragon Ballroom (Early Show)                      |
+| Location        | Chicago, IL                                       |
+| Date            | 06/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Budweiser Stage                                   |
+| Location        | Toronto,                                          |
+| Date            | 06/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Aragon Ballroom                                   |
+| Location        | Chicago, IL                                       |
+| Date            | 06/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Place Bell                                        |
+| Location        | Laval,                                            |
+| Date            | 06/12/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Rockland Trust Bank Pavillion                     |
+| Location        | Boston, MA                                        |
+| Date            | 06/14/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Met Philadelphia                              |
+| Location        | Philadelphia, PA                                  |
+| Date            | 06/15/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Rooftop at Pier 17                            |
+| Location        | New York, NY                                      |
+| Date            | 06/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Radio City Music Hall                             |
+| Location        | New York, NY                                      |
+| Date            | 06/19/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Anthem                                        |
+| Location        | Washington, DC                                    |
+| Date            | 06/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | State Bank Amphitheatre at Chastain Park          |
+| Location        | Atlanta, GA                                       |
+| Date            | 06/23/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Ascend Amphitheater                               |
+| Location        | Nashville, TN                                     |
+| Date            | 06/21/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Tinderbox                                         |
+| Location        | Odense,                                           |
+| Date            | 06/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lollapalooza Stockholm                            |
+| Location        | Stockholm,                                        |
+| Date            | 06/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/29/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Shrine Expo Hall                                  |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Greek Theatre                                 |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Cal Coast Credit Union Open Air Theater           |
+| Location        | San Diego, CA                                     |
+| Date            | 07/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Shrine Expo Hall                                  |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/10/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Frequency Festival                                |
+| Location        | Sankt Pölten,                                     |
+| Date            | 08/15/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lowlands                                          |
+| Location        | Biddinghuizen,                                    |
+| Date            | 08/16/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | MS Dockville                                      |
+| Location        | Hamburg,                                          |
+| Date            | 08/16/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lowlands                                          |
+| Location        | Biddinghuizen,                                    |
+| Date            | 08/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Pukkelpop                                         |
+| Location        | Hasselt,                                          |
+| Date            | 08/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | MS Dockville                                      |
+| Location        | Hamburg,                                          |
+| Date            | 08/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Zürich OpenAir                                    |
+| Location        | Zürich,                                           |
+| Date            | 08/22/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Reading Festival                                  |
+| Location        | Reading,                                          |
+| Date            | 08/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Forum Karlin                                      |
+| Location        | Prague,                                           |
+| Date            | 08/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Leeds Festival                                    |
+| Location        | Leeds,                                            |
+| Date            | 08/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Adrenaline Stadium                                |
+| Location        | Moscow,                                           |
+| Date            | 08/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | A2 Club                                           |
+| Location        | St Petersburg,                                    |
+| Date            | 08/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 08/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 08/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Milano Rocks                                      |
+| Location        | Milan,                                            |
+| Date            | 08/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 09/01/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Poble Espanyol                                    |
+| Location        | Barcelona,                                        |
+| Date            | 09/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | WiZink Center                                     |
+| Location        | Madrid,                                           |
+| Date            | 09/03/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Altice Arena                                      |
+| Location        | Lisbon,                                           |
+| Date            | 09/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lollapalooza Berlin                               |
+| Location        | Berlin,                                           |
+| Date            | 09/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | iHeartRadio Music Festival                        |
+| Location        | Las Vegas, NV                                     |
+| Date            | 09/21/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Coachella Valley Music and Arts Festival          |
+| Location        | Indio, CA                                         |
+| Date            | 04/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Coachella Valley Music and Arts Festival          |
+| Location        | Indio, CA                                         |
+| Date            | 04/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Maitland,                                         |
+| Date            | 04/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Spark Arena                                       |
+| Location        | Auckland,                                         |
+| Date            | 04/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Hordern Pavilion                                  |
+| Location        | Sydney,                                           |
+| Date            | 04/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Canberra,                                         |
+| Date            | 04/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Wayville,                                         |
+| Date            | 04/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Townsville,                                       |
+| Date            | 05/05/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Bendigo,                                          |
+| Date            | 05/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Eatons Hill Hotel                                 |
+| Location        | Brisbane,                                         |
+| Date            | 05/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Margaret Court Arena                              |
+| Location        | Melbourne,                                        |
+| Date            | 05/03/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Groovin The Moo                                   |
+| Location        | Bunbury,                                          |
+| Date            | 05/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | BBC Radio 1's Big Weekend                         |
+| Location        | Middlesbrough,                                    |
+| Date            | 05/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Moda Center                                       |
+| Location        | Portland, OR                                      |
+| Date            | 05/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | PNE Amphitheatre                                  |
+| Location        | Vancouver,                                        |
+| Date            | 06/01/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Marymoor Park                                     |
+| Location        | Redmond, WA                                       |
+| Date            | 06/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Great Saltair                                 |
+| Location        | Salt Lake City, UT                                |
+| Date            | 06/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Bill Graham Civic Auditorium                      |
+| Location        | San Francisco, CA                                 |
+| Date            | 05/29/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Eatons Hill Hotel                                 |
+| Location        | Brisbane,                                         |
+| Date            | 05/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Fremantle Arts Centre                             |
+| Location        | Fremantle,                                        |
+| Date            | 05/10/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Silverstein Eye Centers Arena                     |
+| Location        | Kansas City, MO                                   |
+| Date            | 06/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Red Rocks Amphitheatre                            |
+| Location        | Morrison, CO                                      |
+| Date            | 06/05/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Aragon Ballroom (Early Show)                      |
+| Location        | Chicago, IL                                       |
+| Date            | 06/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Budweiser Stage                                   |
+| Location        | Toronto,                                          |
+| Date            | 06/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Place Bell                                        |
+| Location        | Laval,                                            |
+| Date            | 06/12/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Rockland Trust Bank Pavillion                     |
+| Location        | Boston, MA                                        |
+| Date            | 06/14/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Met Philadelphia                              |
+| Location        | Philadelphia, PA                                  |
+| Date            | 06/15/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Rooftop at Pier 17                            |
+| Location        | New York, NY                                      |
+| Date            | 06/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Radio City Music Hall                             |
+| Location        | New York, NY                                      |
+| Date            | 06/19/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Anthem                                        |
+| Location        | Washington, DC                                    |
+| Date            | 06/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Ascend Amphitheater                               |
+| Location        | Nashville, TN                                     |
+| Date            | 06/21/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | State Bank Amphitheatre at Chastain Park          |
+| Location        | Atlanta, GA                                       |
+| Date            | 06/23/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Aragon Ballroom                                   |
+| Location        | Chicago, IL                                       |
+| Date            | 06/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Tinderbox                                         |
+| Location        | Odense,                                           |
+| Date            | 06/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lollapalooza Stockholm                            |
+| Location        | Stockholm,                                        |
+| Date            | 06/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/29/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Shrine Expo Hall                                  |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/09/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Shrine Expo Hall                                  |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/10/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Greek Theatre                                 |
+| Location        | Los Angeles, CA                                   |
+| Date            | 07/11/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Glastonbury Festival                              |
+| Location        | Worthy Farm,                                      |
+| Date            | 06/26/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Frequency Festival                                |
+| Location        | Sankt Pölten,                                     |
+| Date            | 08/15/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | The Armory                                        |
+| Location        | Minneapolis, MN                                   |
+| Date            | 06/08/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lowlands                                          |
+| Location        | Biddinghuizen,                                    |
+| Date            | 08/16/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Cal Coast Credit Union Open Air Theater           |
+| Location        | San Diego, CA                                     |
+| Date            | 07/13/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lowlands                                          |
+| Location        | Biddinghuizen,                                    |
+| Date            | 08/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | MS Dockville                                      |
+| Location        | Hamburg,                                          |
+| Date            | 08/16/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Forum Karlin                                      |
+| Location        | Prague,                                           |
+| Date            | 08/20/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | MS Dockville                                      |
+| Location        | Hamburg,                                          |
+| Date            | 08/17/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Zürich OpenAir                                    |
+| Location        | Zürich,                                           |
+| Date            | 08/22/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Pukkelpop                                         |
+| Location        | Hasselt,                                          |
+| Date            | 08/18/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Reading Festival                                  |
+| Location        | Reading,                                          |
+| Date            | 08/24/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | A2 Club                                           |
+| Location        | St Petersburg,                                    |
+| Date            | 08/28/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 08/30/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 08/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Milano Rocks                                      |
+| Location        | Milan,                                            |
+| Date            | 08/31/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Electric Picnic Music and Arts Festival           |
+| Location        | Stradbally,                                       |
+| Date            | 09/01/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Poble Espanyol                                    |
+| Location        | Barcelona,                                        |
+| Date            | 09/02/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | WiZink Center                                     |
+| Location        | Madrid,                                           |
+| Date            | 09/03/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Altice Arena                                      |
+| Location        | Lisbon,                                           |
+| Date            | 09/04/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Adrenaline Stadium                                |
+| Location        | Moscow,                                           |
+| Date            | 08/27/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Lollapalooza Berlin                               |
+| Location        | Berlin,                                           |
+| Date            | 09/07/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | Leeds Festival                                    |
+| Location        | Leeds,                                            |
+| Date            | 08/25/2019                                        |
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| Artist/Band     | Billie Eilish                                     |
+| Venue           | iHeartRadio Music Festival                        |
+| Location        | Las Vegas, NV                                     |
+| Date            | 09/21/2019                                        |
+-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Oops!...I Did It Again                                        |
+| Album        | Oops!... I Did It Again                                       |
+| Spotify Link | https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Toxic                                                         |
+| Album        | In The Zone                                                   |
+| Spotify Link | https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | ...Baby One More Time                                         |
+| Album        | ...Baby One More Time (Digital Deluxe Version)                |
+| Spotify Link | https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Womanizer                                                     |
+| Album        | Circus (Deluxe Version)                                       |
+| Spotify Link | https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Circus                                                        |
+| Album        | Circus (Deluxe Version)                                       |
+| Spotify Link | https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Toxic                                                         |
+| Album        | Greatest Hits: My Prerogative                                 |
+| Spotify Link | https://open.spotify.com/track/717TY4sfgKQm4kFbYQIzgo         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Sometimes                                                     |
+| Album        | ...Baby One More Time (Digital Deluxe Version)                |
+| Spotify Link | https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Work B**ch                                                    |
+| Album        | Britney Jean (Deluxe Version)                                 |
+| Spotify Link | https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | I'm a Slave 4 U                                               |
+| Album        | Britney (Digital Deluxe Version)                              |
+| Spotify Link | https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN         |
+--------------------------------------------------------------------------------
+| Artist       | Britney Spears                                                |
+| Song         | Gimme More                                                    |
+| Album        | Blackout                                                      |
+| Spotify Link | https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH         |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Title           | Fireproof                                                                                                                                   |
+| Year            | 2008                                                                                                                                        |
+| IMDB Rating     | 6.6                                                                                                                                         |
+| Tomatoes Rating | 40%                                                                                                                                         |
+| Country         | USA                                                                                                                                         |
+| Language        | English                                                                                                                                     |
+| Plot of movie   | n an attempt to save his marriage, a firefighter uses a 40-day experiment known as "The Love Dare."                                         |
+| Actors          | Kirk Cameron, Erin Bethea, Ken Bevel, Stephen Dervan                                                                                        |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | The Hits--Chapter One                                         |
+| Spotify Link | https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | Millennium                                                    |
+| Spotify Link | https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya         |
+--------------------------------------------------------------------------------
+| Artist       | Anthem Lights                                                 |
+| Song         | I Want It That Way                                            |
+| Album        | Covers Part IV                                                |
+| Spotify Link | https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA         |
+--------------------------------------------------------------------------------
+| Artist       | "Weird Al" Yankovic                                           |
+| Song         | Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  |
+| Album        | Poodle Hat                                                    |
+| Spotify Link | https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK         |
+--------------------------------------------------------------------------------
+| Artist       | Tyler and Mark                                                |
+| Song         | I Want It That Way                                            |
+| Album        | Beautiful Dreams                                              |
+| Spotify Link | https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | NKOTBSB                                                       |
+| Spotify Link | https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju         |
+--------------------------------------------------------------------------------
+| Artist       | Glee Cast                                                     |
+| Song         | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Album        | Bye Bye Bye / I Want It That Way (Glee Cast Version)          |
+| Spotify Link | https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP         |
+--------------------------------------------------------------------------------
+| Artist       | Boyce Avenue                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Cover Sessions, Vol. 2                                        |
+| Spotify Link | https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx         |
+--------------------------------------------------------------------------------
+| Artist       | Backstreet Boys                                               |
+| Song         | I Want It That Way                                            |
+| Album        | 90 Sweet 90s Hits!                                            |
+| Spotify Link | https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5         |
+--------------------------------------------------------------------------------
+| Artist       | Dynamite Boy                                                  |
+| Song         | I Want It That Way                                            |
+| Album        | Punk Goes Pop                                                 |
+| Spotify Link | https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN         |

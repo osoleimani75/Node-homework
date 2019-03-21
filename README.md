@@ -21,7 +21,6 @@ To use LIRI:
 
 <hr>
 ## Built With
-## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Spotify API](https://developer.spotify.com/documentation/web-api/) 
 * [OMDB API](http://www.omdbapi.com)

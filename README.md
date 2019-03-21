@@ -9,6 +9,7 @@ To use LIRI:
 * Clone the repository.
 * Run command "npm install" in Terminal.
 * Run command "node index.js" and one of the following commands:
+* <b> see picture of result under images folder</b>
 
     1. `concert  <Band Name>`   will display the last 20 tweets of Duke the Dog and what time they were posted 
     2. `spotify  <song title>`  will display information about the song such as the artist, album name and a preview link
@@ -18,7 +19,6 @@ To use LIRI:
 <b>Note :</b>  You review your result in log file under log folder 
         All functions work seperate file under functions folder 
         if you use only command, you see default version report
-
 ## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Spotify API](https://developer.spotify.com/documentation/web-api/) 
